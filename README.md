@@ -1,6 +1,6 @@
 # python_practica_equipo3
 Práctica del 17-10-2025 PYTHON
-"""
+
    CONSIGNA:
    El juego termina cuando el jugador acierta el numero o hace 5 intentos
    Cuando se pide ingresar el num se le debe indicar al jugado el rango maximo y minimo
@@ -17,4 +17,5 @@ Práctica del 17-10-2025 PYTHON
        alexisjklm111@gmail.com:
        gutierrezleoneltomas@gmail.com;
        gustavocamussi@yahoo.com.ar;
-"""
+
+
