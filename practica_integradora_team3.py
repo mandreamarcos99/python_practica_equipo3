@@ -51,7 +51,8 @@ if adivino == False:
      print(' ')
         
 """
--- Por falta de tiempo nos falto:
+-- Por falta de tiempo nos faltó:
       -- poner si esta fuera de rango
-      -- Si es no es un número
+      -- Si es no es un número entero avisar error al usuario
+
 """
